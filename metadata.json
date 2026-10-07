@@ -1,0 +1,7 @@
+{
+  "name": "PROJECT: AETHER - 4v4 Tactical Extraction Shooter",
+  "description": "Dark futuristic 4v4 tactical multiplayer shooter. Infiltrate enemy strongholds, capture planetary Energy Cores or VIPs, command tactical gunships, and execute precision ODM wire maneuvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
